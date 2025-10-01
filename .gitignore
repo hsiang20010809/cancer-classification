@@ -1,0 +1,22 @@
+# 忽略大型資料集
+archive/
+
+# 忽略 Python 快取檔案
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 忽略 Jupyter Notebook 檢查點
+.ipynb_checkpoints/
+
+# 忽略模型檔案
+*.pth
+*.h5
+*.pkl
+
+# 忽略日誌檔案
+*.log
+
+# 忽略暫存檔案
+.DS_Store
+Thumbs.db
